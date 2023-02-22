@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar Thakur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.850477fed08bfe98598082bcd309ce70%3frik%3d9l9aIUrNeKA%252fPw%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=boy+animated+coding+gif&simid=607996541550402291&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=18">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=DgD1qCZJDvQXDg&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshghost&label=Profile%20views&color=0e75b6&style=flat" alt="santoshghost" /> </p>
 
