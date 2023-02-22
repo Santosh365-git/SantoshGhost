@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SantoshGhost/SantoshGhost/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Santosh Kumar Thakur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=DgD1qCZJDvQXDg&pid=ImgRaw&r=0">
